@@ -1,0 +1,51 @@
+.card-footer .link .badge {
+	position: absolute;
+	top: .1rem;
+	left: 50%;
+	z-index: 100;
+	height: .8rem;
+	min-width: .8rem;
+	padding: 0 .2rem;
+	font-size: .6rem;
+	line-height: .8rem;
+	color: white;
+	vertical-align: top;
+	background: red;
+	border-radius: .5rem;
+	margin-left: .1rem;
+}
+
+.create-PlanPopup .badge {
+	margin: -0.1rem 0 0 0.2rem;
+    height: .9rem;
+    width: .9rem;
+    font-size: .5rem;
+    padding: 0 .2rem;
+    line-height: 1rem;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    font-size: 9pt;
+    line-height: 150%;
+    text-align: center;
+    color: #c2c2c2;
+}
+.footer-zsxs{
+    font-size: 10pt;
+    height: 15pt;
+    line-height: 15pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-zsxs img {
+    width: 10pt;
+    height: 10pt;
+    margin-right: 5px;
+}
+.footer-other{
+    font-size: 10pt;
+    line-height: 15pt;
+}
